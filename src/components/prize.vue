@@ -16,21 +16,21 @@
     <div class="lotteryText">{{description}}</div>
     <div class="line">&nbsp;</div>
     <div class="modal" v-show="bg">
-      <img class="bbbbb" src="http://123.56.12.92/images/lingqu.png"/>
+      <img class="bbbbb" src="http://xjl.qxykjz.com/images/lingqu.png"/>
       <p class="activeName">花费<span style="color:#FF5500">30金币</span>即可参与此活动</p>
       <p class="activeGold">当前金币:<span class="liang">{{amount}}个</span></p>
       <span class="activeNo" @click="noBtn()">不要</span>
       <span class="activeYes" @click="yesBtn()">确定</span>
     </div>
     <div class="modal" v-show="bg1">
-      <img class="bbbbb" src="http://123.56.12.92/images/lingqu.png"/>
+      <img class="bbbbb" src="http://xjl.qxykjz.com/images/lingqu.png"/>
       <p class="activeName">金币账户余额:{{amount}}</p>
       <p class="activeGold1">客官,金币账户余额不足,赶快补充金币吧!</p>
       <span class="activeNo" @click="noBtn()">暂时不了</span>
       <span class="activeYes" @click="goBtn()">去赚金币</span>
     </div>
     <div class="modal" v-show="bg2">
-      <img class="bbb" src="http://123.56.12.92/images/hongbb.png"/>
+      <img class="bbb" src="http://xjl.qxykjz.com/images/hongbb.png"/>
       <p class="zhong1">参于成功!</p>
       <p class="zhong2">恭喜您获得瓜分奖品的资格</p>
       <div class="zhong3">
@@ -321,7 +321,7 @@
   .content .liucheng{
     width: 702px;
     height: 179px;
-    background: url("http://jmyq.wzgeek.com/images/liuCheng.jpg") no-repeat;
+    background: url("http://xjl.qxykjz.com/images/liuCheng.jpg") no-repeat;
     background-size: contain;
     margin: 0 auto;
     margin-top: 30px;
@@ -504,7 +504,7 @@
     margin-top: -54px;
     width: 509px;
     height: 109px;
-    background: url("http://123.56.12.92/images/luckBox.png") no-repeat no-repeat;
+    background: url("http://xjl.qxykjz.com/images/luckBox.png") no-repeat no-repeat;
     background-size: 509px 122px;
   }
   .zhong4{

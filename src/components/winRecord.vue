@@ -219,7 +219,7 @@
     margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 60px;
-    background: url("http://jmyq.wzgeek.com/images/jiangBg.png") no-repeat;
+    background: url("http://xjl.qxykjz.com/images/jiangBg.png") no-repeat;
     background-size: contain;
   }
   #part .proImg span{
